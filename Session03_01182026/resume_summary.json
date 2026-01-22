@@ -1,0 +1,136 @@
+{
+    "name": "Nirmala Kumar",
+    "summary": "Transformational Product Leader and MIT-trained CTO with 20+ years of experience leading enterprise digital transformations and technical product delivery.",
+    "corePillarsOfExpertise": [
+        {
+            "pillar": "Product Strategy & Innovation",
+            "description": "Defining the 'North Star' for complex High-Tech products; aligning market needs with engineering feasibility."
+        },
+        {
+            "pillar": "Architectural Strategy",
+            "description": "Designing resilient, cloud-native frameworks for mission-critical enterprise applications (HL7/FHIR, HIPAA/HITECH)."
+        },
+        {
+            "pillar": "Full-Cycle Delivery",
+            "description": "Navigating the SDLC from algorithmic design to global deployment and CI/CD automation."
+        },
+        {
+            "pillar": "High-Impact Leadership",
+            "description": "Mentoring high-output teams and modernizing workflows through a lean, startup-focused lens."
+        },
+        {
+            "pillar": "Technical Product Management",
+            "description": "Translating business goals into precise requirements for $2B+ scale platforms."
+        }
+    ],
+    "professionalExperience": [
+        {
+            "company": "SpeakEQ",
+            "title": "CEO & Founder",
+            "startDate": "Jan 2025",
+            "endDate": "Present",
+            "responsibilities": [
+                {
+                    "responsibility": "Visionary Leadership: Founded and lead a venture-backed (or self-funded) startup focused on [Insert SpeakEQ core mission, e.g., communication analytics/EQ-driven tech]."
+                },
+                {
+                    "responsibility": "Product Development: Architected the initial product roadmap, balancing rapid prototyping with long-term scalability and data privacy."
+                },
+                {
+                    "responsibility": "Strategic Growth: Driving business development and GTM strategy, positioning the platform for enterprise adoption."
+                }
+            ]
+        },
+        {
+            "company": "County of Sonoma",
+            "title": "Department Information Systems Manager",
+            "startDate": "Jan 2024",
+            "endDate": "Nov 2024",
+            "responsibilities": [
+                {
+                    "responsibility": "EHR Modernization: Directed the technical vision for department-wide EHR and POS systems, transitioning legacy databases to modern, scalable architectures."
+                },
+                {
+                    "responsibility": "Culture Shift: Implemented GitHub and automated workflows to shift the organization toward a high-velocity, 'startup-style' delivery model."
+                },
+                {
+                    "responsibility": "Compliance & Data: Audited and optimized centralized data hubs ensuring HIPAA integrity and actionable business insights."
+                }
+            ]
+        },
+        {
+            "company": "King County, WA",
+            "title": "Senior Project Manager (Enterprise Software)",
+            "startDate": "July 2018",
+            "endDate": "Aug 2023",
+            "responsibilities": [
+                {
+                    "responsibility": "Enterprise Scaling: Led cross-functional teams through the end-to-end delivery of complex enterprise software serving millions of constituents."
+                },
+                {
+                    "responsibility": "Stakeholder Alignment: Navigated complex C-suite/Public-sector requirements to align technical roadmaps with high ROI outcomes."
+                },
+                {
+                    "responsibility": "Governance: Managed full SDLC for mission-critical systems, ensuring zero downtime during major platform upgrades."
+                }
+            ]
+        },
+        {
+            "company": "AT&T",
+            "title": "Project Manager / Product Owner / Scrum Master",
+            "startDate": "Jan 2016",
+            "endDate": "Dec 2017",
+            "responsibilities": [
+                {
+                    "responsibility": "High-Visibility Programs: Managed the 'BlackFlag' initiative, bridging Marketing and Engineering for high-stakes programs like Netbond and DirecTV."
+                },
+                {
+                    "responsibility": "Agile Transformation: Led Scrum ceremonies for distributed teams, improving sprint velocity by 25%."
+                }
+            ]
+        },
+        {
+            "company": "Deloitte",
+            "title": "Associate (Tier-1 Telecom focus)",
+            "startDate": "June 2014",
+            "endDate": "Oct 2015",
+            "responsibilities": [
+                {
+                    "responsibility": "Release Management: Managed end-to-end project lifecycles for global Telecom clients, focusing on scope, risk mitigation, and successful market launches."
+                }
+            ]
+        },
+        {
+            "company": "Microsoft / AT&T / REI/ Tweddle",
+            "title": "Program Manager / Technical Consultant",
+            "startDate": "2010",
+            "endDate": "2013",
+            "responsibilities": [
+                {
+                    "responsibility": "Strategy & QA: Defined UAT strategy for Microsoft volume licensing; led defect management for Toyota Entune (TGT) and REI eCommerce launches."
+                }
+            ]
+        }
+    ],
+    "educationAndProfessionalDevelopment": [
+        {
+            "program": "Chief Technology Officer (CTO) Program",
+            "institution": "Massachusetts Institute of Technology"
+        },
+        {
+            "degree": "M.S Computer Science",
+            "institution": "East Tennessee University"
+        }
+    ],
+    "technicalSkillsAndCompliance": [
+        {
+            "compliance": "HIPAA, HITECH, SOC2, Securities Regulation."
+        },
+        {
+            "ehrHealthTechKnowledge": "Workflow optimization (Avatar/Cerner style), Data Architecture, Interoperability."
+        },
+        {
+            "technologies": "Cloud-Native Frameworks, GitHub, CI/CD, Enterprise System Architecture, Technical Product Management (TPM)"
+        }
+    ]
+}
