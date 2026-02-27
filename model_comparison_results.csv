@@ -1,4 +1,0 @@
-Model,Answer
-GPT-4o,You will need to submit a leave request for approval.
-Fine-Tuned-Model,"Error: Error code: 404 - {'error': {'message': 'The model `ftjob-2rvwgI8RMhRffbM81LJYo1e0` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}"
-GPT-4-Turbo,"To take a vacation, you should submit a leave request for approval according to your company's policy. Make sure to check how many days you can take and any specific procedures or forms you need to fill out. Once your leave is approved, you can enjoy your vacation!"
