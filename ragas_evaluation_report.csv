@@ -1,3 +1,0 @@
-user_input,retrieved_contexts,response,reference,faithfulness,answer_relevancy,context_precision
-How often are employees paid?,"['Employees are paid bi-weekly via direct deposit.', 'Employees can take an hour break.']",Employees are paid bi-weekly.,Employees are paid bi-weekly via direct deposit.,1.0,,0.9999999999
-What is the process for requesting leave?,"['Employees must submit a leave request for approval.', 'Employees can take an hour break.']",Employees must submit a leave request for approval.,Employees must submit a leave request for approval.,1.0,,0.9999999999
